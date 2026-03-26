@@ -1,5 +1,8 @@
 # Prakticheskoe_zadanie_11
 
+Ссылка на коды на всякий случай
+
+
 ![](image.png)
 
 ![](Chupep.jpg)
